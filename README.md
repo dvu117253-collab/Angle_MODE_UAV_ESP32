@@ -19,15 +19,12 @@ This setup relies on specific SPI and I2C sensors.
 *   **Pin 35:** SBUS RX
 *   **Pin 14:** Buzzer
 
-*(Note: Link your June 2026 Mạch PCB design and flight testing videos here so others can see the physical board in action!)*
-
 ## Control Architecture
 
 This flight controller utilizes a cascaded PID loop. The outer loop calculates the desired rotation rate based on the angle error, which is then fed into the inner rate loop. 
 
 <img width="1897" height="411" alt="cascade_pid" src="https://github.com/user-attachments/assets/56931cef-f505-4eef-8142-f14ffe4d7dd0" />
 
-*(Note: Link your shared NotebookLM technical documentation here for users who want to dive deeper into your control theory and filter derivations).*
 
 ## Setup Instructions
 
