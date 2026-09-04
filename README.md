@@ -11,12 +11,12 @@ This setup relies on specific SPI and I2C sensors.
 *   **Receiver:** SBUS compatible
 
 **Pin Mapping:**
-*   **Pin 27:** ESC Front Right[cite: 8]
-*   **Pin 25:** ESC Front Left[cite: 8]
-*   **Pin 33:** ESC Back Right[cite: 8]
-*   **Pin 26:** ESC Back Left[cite: 8]
-*   **Pin 35:** SBUS RX[cite: 7]
-*   **Pin 14:** Buzzer[cite: 8]
+*   **Pin 27:** ESC Front Right
+*   **Pin 25:** ESC Front Left
+*   **Pin 33:** ESC Back Right
+*   **Pin 26:** ESC Back Left
+*   **Pin 35:** SBUS RX
+*   **Pin 14:** Buzzer
 
 *(Note: Link your June 2026 Mạch PCB design and flight testing videos here so others can see the physical board in action!)*
 
