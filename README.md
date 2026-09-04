@@ -11,6 +11,8 @@ This setup relies on specific SPI and I2C sensors.
 *   **Barometer:** BMP388 (I2C)
 *   **Receiver:** SBUS compatible
 
+**Contact FB for product or instruction: ** https://www.facebook.com/canzzy.hn.1
+
 **Pin Mapping:**
 *   **Pin 27:** ESC Front Right
 *   **Pin 25:** ESC Front Left
