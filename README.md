@@ -1,4 +1,4 @@
-<img width="1897" height="411" alt="cascade_pid" src="https://github.com/user-attachments/assets/56931cef-f505-4eef-8142-f14ffe4d7dd0" />
+
 # Angle_MODE_UAV_ESP32
 
 A custom ESP32 flight controller designed for Angle Mode stabilized flight, featuring a 200Hz control loop and cascaded PID implementation.
@@ -25,7 +25,7 @@ This setup relies on specific SPI and I2C sensors.
 
 This flight controller utilizes a cascaded PID loop. The outer loop calculates the desired rotation rate based on the angle error, which is then fed into the inner rate loop. 
 
-![Cascade PID Diagram](assets/cascade_pid.png)
+<img width="1897" height="411" alt="cascade_pid" src="https://github.com/user-attachments/assets/56931cef-f505-4eef-8142-f14ffe4d7dd0" />
 
 *(Note: Link your shared NotebookLM technical documentation here for users who want to dive deeper into your control theory and filter derivations).*
 
